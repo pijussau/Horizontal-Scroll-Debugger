@@ -2,7 +2,7 @@
     "name": "Horizontal Scroll Debugger",
     "version": "1.1",
     "manifest_version" : 2,
-    "description": "Does some simple stuff",
+    "description": "Quickly find out exactly what is causing the 'swimming'!",
     "background" : {
       "scripts" : ["script.js"],
       "persistent": false
